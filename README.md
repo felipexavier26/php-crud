@@ -17,13 +17,8 @@ Este é um projeto simples de CRUD (Criar, Ler, Atualizar e Deletar) desenvolvid
 <li><strong>HTML/CSS</strong> Para a estrutura e estilo da interface.</li>
 <li><strong>Bootstrap</strong>Framework CSS para tornar a interface responsiva e atraente.</li>
 
-
-
-
 <br>
 <br>
 
-
-
-
+![image](https://github.com/user-attachments/assets/5abc62d0-f169-40ac-aafb-9202fb46be66)
 
